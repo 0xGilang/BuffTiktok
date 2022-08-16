@@ -1,2 +1,2 @@
-# BuffTiktok
-Bot like &amp; share tiktok
+# Coming Soon
+- Script sedang dalam proses perbaikan dan masa uji coba
